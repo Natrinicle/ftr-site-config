@@ -1,0 +1,5 @@
+body: //div[@role='main']
+
+prune: no
+
+test_url: https://www.lambdacambridge.com/blog/2018-05-how-scrum-destroyed-agile
